@@ -19,7 +19,7 @@ body {
   width: fit-content;
   margin: 3rem auto;
   padding: 0 10px;
-  border-radius: 20px 0 0 0;
+  border-radius: 20px 0 0;
   box-shadow: 0 0 10px #deb887;
 }
 
@@ -44,7 +44,6 @@ button {
   border: none;
   padding: 10px 30px;
   font-size: 30px;
-  border: 1px solid #ccc;
   cursor: pointer;
   margin: 5px;
   transition: 0.5s;
