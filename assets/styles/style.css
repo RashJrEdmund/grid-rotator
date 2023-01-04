@@ -20,7 +20,7 @@ body {
   margin: 3rem auto;
   padding: 0 10px;
   border-radius: 20px 0 0 0;
-  box-shadow: 0 0 10px burlywood;
+  box-shadow: 0 0 10px #deb887;
 }
 
 h2 {
@@ -51,6 +51,6 @@ button {
 }
 
 button:hover {
-  background-color: burlywood;
+  background-color: #deb887;
   color: #800080;
 }
